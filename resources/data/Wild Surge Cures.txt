@@ -1,0 +1,100 @@
+01 10d100 hours have passed  
+02 1d4 turns have passed per level of the caster  
+03 They have attained fluency in 1d4 additional languages  
+04 They have attained fluency in one additional language  
+05 They have been awarded a title by royalty  
+06 They have been branded with a hot iron like a bull  
+07 They have been formally pardoned by the king  
+08 They have been reduced to one hit point  
+09 They have been resurrected  
+10 They have been stabbed by a silver weapon  
+11 They have been tried and imprisoned for heresy  
+12 They have bested 10d10 warriors in single combat  
+13 They have bought a hugely expensive home and burned it down  
+14 They have broken every finger on one of their hands  
+15 They have built 2d10 snowmen  
+16 They have burned down their current home  
+17 They have burned themself for 2d20 total hit points of fire damage  
+18 They have carried a gallon of water from the sea to this spot  
+19 They have carried a stone from this spot to the sea  
+20 They have carved their full name in 10d10 different trees  
+21 They have circumnavigated the globe without using magic to do so  
+22 They have composed 3d4 sonnets  
+23 They have cut off 1d4 fingers  
+24 They have cut off their own ear  
+25 They have destroyed every book that they owns  
+26 They have destroyed every table within 1d4 miles  
+27 They have destroyed their most prized possession  
+28 They have dug a functioning and productive well on this spot  
+29 They have eaten 1,000 gold pieces worth of gold  
+30 They have eaten 1d4 pounds of soil  
+31 They have eaten 1d4x their weight in squirrels  
+32 They have eaten 2d6 pounds of cured leather  
+33 They have eaten an entire, live chicken  
+34 They have extracted 1d4 of their own teeth  
+35 They have felled 3d6 trees older than they is  
+36 They have forged a sword from meteoric iron  
+37 They have found a lost city hidden in the desert  
+38 They have founded a cult  
+39 They have gained a level  
+40 They have gone 10d10 days and nights without speaking  
+41 They have gone 1d4 weeks without exposure to direct sunlight  
+42 They have gone one full month without using magic or any magic items  
+43 They have had a personal audience with 1d6 different deities  
+44 They have hand-carved a marble statue of themself  
+45 They have hidden a cursed ruby beneath a tall mountain  
+46 They have imbibed 1d4 pints of lamp oil  
+47 They have imbibed 1d8 pints of their own blood  
+48 They have located and destroyed an artifact  
+49 They have lost a level  
+50 They have lost a total of 3d10 hit points due to burns from acid  
+51 They have lost a total of 3d10 hit points due to electrical damage  
+52 They have manually unearthed a diamond larger than their head  
+53 They have married  
+54 They have married, divorced, and remarried 1d4 times  
+55 They have produced an heir  
+56 They have razed the nearest wooden structure  
+57 They have remained awake for 4d6 consecutive days and nights  
+58 They have restored the nearest undead creature to life  
+59 They have retrieved a particular gold coin from the bottom of the sea  
+60 They have rid themself of all magic items  
+61 They have rid the nearest town of mice and rats  
+62 They have rolled less than their weight on 1d1000, one attempt per day  
+63 They have rolled less than their wisdom on 1d100, one attempt per day  
+64 They have scaled the tallest mountian on the continent  
+65 They have sharpened every blade within 1d10 miles  
+66 They have shaved their head completely bald  
+67 They have shed 2d10 pounds  
+68 They have single-handedly dammed the nearest river  
+69 They have slain 1d10 undead  
+70 They have slain 1d6 kings  
+71 They have spent 1,000,000 gold pieces with nothing to show for it  
+72 They have spent 1d4 days and nights at the bottom of a deep well  
+73 They have spent a night in a sty with at least 3d10 pigs  
+74 They have spent a night in each of 2d6 dragons’ lairs  
+75 They have spent an entire night at the bottom of a lake  
+76 They have spent an entire night naked and unprotected in snow  
+77 They have spent an entire night sealed in a barrel  
+78 They have spent an entire night up to their neck in offal  
+79 They have stabbed themself with a weapon that they forged  
+80 They have swallowed 4d10 gallons of water  
+81 They have swallowed a pint of molten lead  
+82 They have tattooed 10d100 cryptic runes on their skin  
+83 They have thwarted an assassination attempt against the king  
+84 They have triggered 1d4 additional wild surges  
+85 They have visited both of the world’s magnetic poles  
+86 They have waded along the shores of 1d4 oceans  
+87 They have walked 10d100 miles  
+88 They have walked on the floor of the ocean  
+89 They have walked on the surface of the moon  
+90 They have walked the shores of hell  
+91 They have woven a six foot length of rope from their own hair  
+92 They have written their full name in 10d10 different books  
+93 They unearths 1d4 pounds of gold  
+94 Their next birthday  
+95 Their son produces an heir  
+96 One year and one day have passed  
+97 The current king has died  
+98 The next total lunar eclipse occurs  
+99 They have performed an exorcism on a member of the royal family  
+00 They have been bitten by 1d6 different lycanthropes  
